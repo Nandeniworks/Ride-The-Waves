@@ -23,7 +23,7 @@ SURFS UP!
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To view this project locally:
 
